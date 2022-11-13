@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mH8cSmHX1xLjxWta+18YNnt1BnBnQWZ/zHRycNzv9C74hiXSrs0q5xpJ6OCOYYMrAX/xpihiDG24TqDJlk9ZjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Сергей\\RiderProjects\\Square\\Sqr\\Sqr.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Сергей\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.10\\microsoft.netcore.app.ref.6.0.10.nupkg.sha512",
+    "C:\\Users\\Сергей\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.10\\microsoft.windowsdesktop.app.ref.6.0.10.nupkg.sha512",
+    "C:\\Users\\Сергей\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.10\\microsoft.aspnetcore.app.ref.6.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

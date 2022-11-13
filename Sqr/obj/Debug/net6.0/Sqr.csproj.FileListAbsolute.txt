@@ -1,0 +1,12 @@
+C:\Users\Сергей\RiderProjects\Square\Sqr\bin\Debug\net6.0\Sqr.deps.json
+C:\Users\Сергей\RiderProjects\Square\Sqr\bin\Debug\net6.0\Sqr.dll
+C:\Users\Сергей\RiderProjects\Square\Sqr\bin\Debug\net6.0\Sqr.pdb
+C:\Users\Сергей\RiderProjects\Square\Sqr\obj\Debug\net6.0\Sqr.csproj.AssemblyReference.cache
+C:\Users\Сергей\RiderProjects\Square\Sqr\obj\Debug\net6.0\Sqr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\RiderProjects\Square\Sqr\obj\Debug\net6.0\Sqr.AssemblyInfoInputs.cache
+C:\Users\Сергей\RiderProjects\Square\Sqr\obj\Debug\net6.0\Sqr.AssemblyInfo.cs
+C:\Users\Сергей\RiderProjects\Square\Sqr\obj\Debug\net6.0\Sqr.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\RiderProjects\Square\Sqr\obj\Debug\net6.0\Sqr.dll
+C:\Users\Сергей\RiderProjects\Square\Sqr\obj\Debug\net6.0\refint\Sqr.dll
+C:\Users\Сергей\RiderProjects\Square\Sqr\obj\Debug\net6.0\Sqr.pdb
+C:\Users\Сергей\RiderProjects\Square\Sqr\obj\Debug\net6.0\ref\Sqr.dll
